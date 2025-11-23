@@ -1,0 +1,440 @@
+[2025-10-26 19:58:15] AudioEndpoint detected: FriendlyName='Headphones (High Definition Audio Device)' Type=Headphones ControllerID='PCI_VEN_1022_DEV_1487'
+[2025-10-26 19:58:16] AudioEndpoint detected: FriendlyName='Микрофон (PD400X Podcast Microphone)' Type=Microphone ControllerID='PCI_VEN_1022_DEV_149C'
+[2025-10-26 19:58:16] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:16]   Pattern matches: keyboard=1
+[2025-10-26 19:58:16]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:16]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:16]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:16] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:16]   Pattern matches: keyboard=1
+[2025-10-26 19:58:16]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:16]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:16]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:16] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:16]   Pattern matches: keyboard=1
+[2025-10-26 19:58:16]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:16]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:16]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:16] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:16]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:16]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:16]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:16]   Determined DeviceType: Mouse
+[2025-10-26 19:58:16] HID Device detected: ProductString='PD400X Podcast Microphone'
+[2025-10-26 19:58:16]   Pattern matches: <none>
+[2025-10-26 19:58:16]   Determined DeviceType: <none>
+[2025-10-26 19:58:16] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:16]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:16]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:16]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:16]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:17]   Pattern matches: keyboard=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:17]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:17]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='MAD 8K DONGLE'
+[2025-10-26 19:58:17]   Pattern matches: 8k=1; MAD=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: 8k=Mouse; MAD=Mouse
+[2025-10-26 19:58:17]   Totals => Keyboard=0 Mouse=2
+[2025-10-26 19:58:17]   Determined DeviceType: Mouse
+[2025-10-26 19:58:17] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:17]   Pattern matches: keyboard=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:17]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:17]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:17] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:17]   Pattern matches: keyboard=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:17]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:17]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:17] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:17]   Pattern matches: keyboard=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:17]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:17]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:17] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-26 19:58:17]   Pattern matches: keyboard=1
+[2025-10-26 19:58:17]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-26 19:58:17]   Totals => Keyboard=1 Mouse=0
+[2025-10-26 19:58:17]   Determined DeviceType: Keyboard
+[2025-10-26 19:58:17] SUMMARY: HID product statistics (aggregated by ProductString):
+[2025-10-26 19:58:17]   - Product='MAD 8K DONGLE' Occurrences=10 Keyboard=0 Mouse=10 None=0 TotalPatternMatches=20
+[2025-10-26 19:58:17]       PatternTotals: MAD=10; 8k=10
+[2025-10-26 19:58:17]   - Product='PD400X Podcast Microphone' Occurrences=1 Keyboard=0 Mouse=0 None=1 TotalPatternMatches=0
+[2025-10-26 19:58:17]   - Product='Gaming Keyboard' Occurrences=8 Keyboard=8 Mouse=0 None=0 TotalPatternMatches=8
+[2025-10-26 19:58:17]       PatternTotals: keyboard=8
+[2025-10-26 19:58:17] Get-USBControllers: Assigned audio role 'Microphone' to controller 'PCI_VEN_1022_DEV_149C' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-10-26 19:58:17] Get-USBControllers: Assigned HID role 'Keyboard' to controller 'PCI_VEN_1022_DEV_43BC' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-10-26 19:58:17] Get-USBControllers: Assigned HID role 'Mouse' to controller 'PCI_VEN_1022_DEV_149C' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-10-26 19:58:17] Get-USBControllers: Final controller map collected for GUI:
+[2025-10-26 19:58:17]   Controller='PCI_VEN_1022_DEV_43BC' Roles='Keyboard' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_43BC&SUBSYS_11421B21&REV_02\\4&2C18E2E3&0&000B' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-26 19:58:17]   Controller='PCI_VEN_1022_DEV_149C' Roles='Microphone/Mouse' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_149C&SUBSYS_FFFF1849&REV_00\\4&1FDE7688&0&0341' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-26 19:58:17] Get-PCIDevices: GPU detected: Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_2488&SUBSYS_88581043&REV_A1\4&1fc990d7&0&0019' Port='4&1fc990d7&0' Desc='@oem8.inf,%nvidia_dev.2488%;NVIDIA GeForce RTX 3070'
+[2025-10-26 19:58:17] Get-PCIDevices: IGNORED Audio controller (no mapping) -> PNPID='PCI_VEN_10DE_DEV_228B' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_228B&SUBSYS_88581043&REV_A1\4&1fc990d7&0&0119' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller'
+[2025-10-26 19:58:17] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_1022_DEV_1487' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_1487&SUBSYS_D8871849&REV_00\4&1fde7688&0&0441' Port='4&1fde7688&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Headphones'
+[2025-10-26 19:58:17] Get-PCIDevices: Summary - GPUs found: 1, Audio controllers included: 1, Audio controllers ignored: 1
+[2025-10-26 19:58:17]   Included Audio: PNPID='PCI_VEN_1022_DEV_1487' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_1487&SUBSYS_D8871849&REV_00\4&1fde7688&0&0441' Port='4&1fde7688&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Headphones'
+[2025-10-26 19:58:17]   Ignored Audio: PNPID='PCI_VEN_10DE_DEV_228B' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_228B&SUBSYS_88581043&REV_A1\4&1fc990d7&0&0119' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Reason='No audio endpoint mapping found'
+[2025-10-26 19:58:17] Get-NetworkAdapters: Detected network adapter -> Name='Intel(R) I210 Gigabit Network Connection' Role='NDIS'
+[2025-10-26 19:58:17]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001
+[2025-10-26 19:58:17]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_1533&SUBSYS_00001D1A&REV_03\C46237FFFF0418CF00
+[2025-10-26 19:58:17] Get-NetworkAdapters: Summary - Network adapters detected: 1.
+[2025-10-26 19:58:17]   Detected Adapter: Name='Intel(R) I210 Gigabit Network Connection' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_1533&SUBSYS_00001D1A&REV_03\C46237FFFF0418CF00'
+[2025-10-28 16:45:49] AudioEndpoint detected: FriendlyName='Realtek HD Audio 2nd output (Realtek(R) Audio)' Type=Audio ControllerID='PCI_VEN_1022_DEV_15E3'
+[2025-10-28 16:45:49] AudioEndpoint detected: FriendlyName='GS25F2 (NVIDIA High Definition Audio)' Type=Audio ControllerID='PCI_VEN_10DE_DEV_1AEF'
+[2025-10-28 16:45:50] AudioEndpoint detected: FriendlyName='Microphone (Realtek(R) Audio)' Type=Microphone ControllerID='PCI_VEN_1022_DEV_15E3'
+[2025-10-28 16:45:50] HID Device detected: ProductString='GIGABYTE Device '
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='GIGABYTE Device '
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='<none>'
+[2025-10-28 16:45:50]   Pattern matches: none=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: none=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:45:50]   Pattern matches: <none>
+[2025-10-28 16:45:50]   Determined DeviceType: <none>
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:45:50]   Pattern matches: keyboard=1
+[2025-10-28 16:45:50]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:45:50]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:45:50]   Determined DeviceType: Keyboard
+[2025-10-28 16:45:50] SUMMARY: HID product statistics (aggregated by ProductString):
+[2025-10-28 16:45:50]   - Product='TUF GAMING M3 GEN II' Occurrences=6 Keyboard=0 Mouse=0 None=6 TotalPatternMatches=0
+[2025-10-28 16:45:50]   - Product='<none>' Occurrences=1 Keyboard=1 Mouse=0 None=0 TotalPatternMatches=1
+[2025-10-28 16:45:50]       PatternTotals: none=1
+[2025-10-28 16:45:50]   - Product='GIGABYTE Device ' Occurrences=2 Keyboard=0 Mouse=0 None=2 TotalPatternMatches=0
+[2025-10-28 16:45:50]   - Product='Gaming Keyboard' Occurrences=8 Keyboard=8 Mouse=0 None=0 TotalPatternMatches=8
+[2025-10-28 16:45:50]       PatternTotals: keyboard=8
+[2025-10-28 16:45:51] Get-USBControllers: Assigned HID role 'Keyboard' to controller 'PCI_VEN_1022_DEV_43F7' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-10-28 16:45:51] Get-USBControllers: Final controller map collected for GUI:
+[2025-10-28 16:45:51]   Controller='PCI_VEN_1022_DEV_15B7' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B7&SUBSYS_50071458&REV_00\\4&16012499&0&0441' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:45:51]   Controller='PCI_VEN_1022_DEV_43F7' Roles='Keyboard' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_43F7&SUBSYS_11421B21&REV_01\\6&2766D23F&0&00600011' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:45:51]   Controller='PCI_VEN_1022_DEV_15B6' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B6&SUBSYS_50071458&REV_00\\4&16012499&0&0341' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:45:51]   Controller='PCI_VEN_1022_DEV_15B8' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B8&SUBSYS_50071458&REV_00\\4&2C288D56&0&0043' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:45:51] Get-PCIDevices: GPU detected: Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_220A&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0009' Port='4&d0bdf66&0' Desc='@oem2.inf,%nvidia_dev.220a%;NVIDIA GeForce RTX 3080'
+[2025-10-28 16:45:51] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_1022_DEV_15E3' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_15E3&SUBSYS_A1941458&REV_00\4&16012499&0&0641' Port='4&16012499&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio/Microphone'
+[2025-10-28 16:45:51] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio'
+[2025-10-28 16:45:51] Get-PCIDevices: Audio controller upgraded to Audio-GPU -> PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' OldDisplay='Audio (Audio Controller) - Audio' NewDisplay='Audio - GPU'
+[2025-10-28 16:45:51] Get-PCIDevices: Summary - GPUs found: 1, Audio controllers included: 2, Audio controllers ignored: 0
+[2025-10-28 16:45:51]   Included Audio: PNPID='PCI_VEN_1022_DEV_15E3' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_15E3&SUBSYS_A1941458&REV_00\4&16012499&0&0641' Port='4&16012499&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio/Microphone'
+[2025-10-28 16:45:51]   Included Audio: PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio'
+[2025-10-28 16:45:51] Get-NetworkAdapters: Detected network adapter -> Name='Realtek 8852CE WiFi 6E PCI-E NIC' Role='NDIS'
+[2025-10-28 16:45:51]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001
+[2025-10-28 16:45:51]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_C852&SUBSYS_56001A3B&REV_01\00E04CFFFEC8520100
+[2025-10-28 16:45:51] Get-NetworkAdapters: Detected network adapter -> Name='Realtek Gaming 2.5GbE Family Controller' Role='NDIS'
+[2025-10-28 16:45:51]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002
+[2025-10-28 16:45:51]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000
+[2025-10-28 16:45:51] Get-NetworkAdapters: Summary - Network adapters detected: 2.
+[2025-10-28 16:45:51]   Detected Adapter: Name='Realtek 8852CE WiFi 6E PCI-E NIC' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_C852&SUBSYS_56001A3B&REV_01\00E04CFFFEC8520100'
+[2025-10-28 16:45:51]   Detected Adapter: Name='Realtek Gaming 2.5GbE Family Controller' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000'
+[2025-10-28 16:58:59] AudioEndpoint detected: FriendlyName='Realtek HD Audio 2nd output (Realtek(R) Audio)' Type=Audio ControllerID='PCI_VEN_1022_DEV_15E3'
+[2025-10-28 16:59:00] AudioEndpoint detected: FriendlyName='GS25F2 (NVIDIA High Definition Audio)' Type=Audio ControllerID='PCI_VEN_10DE_DEV_1AEF'
+[2025-10-28 16:59:00] AudioEndpoint detected: FriendlyName='Microphone (Realtek(R) Audio)' Type=Microphone ControllerID='PCI_VEN_1022_DEV_15E3'
+[2025-10-28 16:59:00] HID Device detected: ProductString='GIGABYTE Device '
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='GIGABYTE Device '
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='<none>'
+[2025-10-28 16:59:00]   Pattern matches: none=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: none=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='TUF GAMING M3 GEN II'
+[2025-10-28 16:59:00]   Pattern matches: <none>
+[2025-10-28 16:59:00]   Determined DeviceType: <none>
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] HID Device detected: ProductString='Gaming Keyboard'
+[2025-10-28 16:59:00]   Pattern matches: keyboard=1
+[2025-10-28 16:59:00]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-10-28 16:59:00]   Totals => Keyboard=1 Mouse=0
+[2025-10-28 16:59:00]   Determined DeviceType: Keyboard
+[2025-10-28 16:59:00] SUMMARY: HID product statistics (aggregated by ProductString):
+[2025-10-28 16:59:00]   - Product='TUF GAMING M3 GEN II' Occurrences=6 Keyboard=0 Mouse=0 None=6 TotalPatternMatches=0
+[2025-10-28 16:59:00]   - Product='<none>' Occurrences=1 Keyboard=1 Mouse=0 None=0 TotalPatternMatches=1
+[2025-10-28 16:59:00]       PatternTotals: none=1
+[2025-10-28 16:59:00]   - Product='GIGABYTE Device ' Occurrences=2 Keyboard=0 Mouse=0 None=2 TotalPatternMatches=0
+[2025-10-28 16:59:00]   - Product='Gaming Keyboard' Occurrences=8 Keyboard=8 Mouse=0 None=0 TotalPatternMatches=8
+[2025-10-28 16:59:00]       PatternTotals: keyboard=8
+[2025-10-28 16:59:01] Get-USBControllers: Assigned HID role 'Keyboard' to controller 'PCI_VEN_1022_DEV_43F7' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-10-28 16:59:01] Get-USBControllers: Final controller map collected for GUI:
+[2025-10-28 16:59:01]   Controller='PCI_VEN_1022_DEV_15B7' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B7&SUBSYS_50071458&REV_00\\4&16012499&0&0441' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:59:01]   Controller='PCI_VEN_1022_DEV_43F7' Roles='Keyboard' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_43F7&SUBSYS_11421B21&REV_01\\6&2766D23F&0&00600011' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:59:01]   Controller='PCI_VEN_1022_DEV_15B6' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B6&SUBSYS_50071458&REV_00\\4&16012499&0&0341' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:59:01]   Controller='PCI_VEN_1022_DEV_15B8' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B8&SUBSYS_50071458&REV_00\\4&2C288D56&0&0043' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-10-28 16:59:01] Get-PCIDevices: GPU detected: Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_220A&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0009' Port='4&d0bdf66&0' Desc='@oem2.inf,%nvidia_dev.220a%;NVIDIA GeForce RTX 3080'
+[2025-10-28 16:59:01] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_1022_DEV_15E3' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_15E3&SUBSYS_A1941458&REV_00\4&16012499&0&0641' Port='4&16012499&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio/Microphone'
+[2025-10-28 16:59:01] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio'
+[2025-10-28 16:59:01] Get-PCIDevices: Audio controller upgraded to Audio-GPU -> PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' OldDisplay='Audio (Audio Controller) - Audio' NewDisplay='Audio - GPU'
+[2025-10-28 16:59:01] Get-PCIDevices: Summary - GPUs found: 1, Audio controllers included: 2, Audio controllers ignored: 0
+[2025-10-28 16:59:01]   Included Audio: PNPID='PCI_VEN_1022_DEV_15E3' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_15E3&SUBSYS_A1941458&REV_00\4&16012499&0&0641' Port='4&16012499&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio/Microphone'
+[2025-10-28 16:59:01]   Included Audio: PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio'
+[2025-10-28 16:59:01] Get-NetworkAdapters: Detected network adapter -> Name='Realtek 8852CE WiFi 6E PCI-E NIC' Role='NDIS'
+[2025-10-28 16:59:01]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001
+[2025-10-28 16:59:01]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_C852&SUBSYS_56001A3B&REV_01\00E04CFFFEC8520100
+[2025-10-28 16:59:01] Get-NetworkAdapters: Detected network adapter -> Name='Realtek Gaming 2.5GbE Family Controller' Role='NDIS'
+[2025-10-28 16:59:01]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002
+[2025-10-28 16:59:01]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000
+[2025-10-28 16:59:01] Get-NetworkAdapters: Summary - Network adapters detected: 2.
+[2025-10-28 16:59:01]   Detected Adapter: Name='Realtek 8852CE WiFi 6E PCI-E NIC' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_C852&SUBSYS_56001A3B&REV_01\00E04CFFFEC8520100'
+[2025-10-28 16:59:01]   Detected Adapter: Name='Realtek Gaming 2.5GbE Family Controller' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000'
+[2025-11-13 14:00:08] AudioEndpoint detected: FriendlyName='GS25F2 (NVIDIA High Definition Audio)' Type=Audio ControllerID='PCI_VEN_10DE_DEV_1AEF'
+[2025-11-13 14:00:08] AudioEndpoint detected: FriendlyName='Realtek HD Audio 2nd output (Realtek(R) Audio)' Type=Audio ControllerID='PCI_VEN_1022_DEV_15E3'
+[2025-11-13 14:00:08] AudioEndpoint detected: FriendlyName='Microphone (Realtek(R) Audio)' Type=Microphone ControllerID='PCI_VEN_1022_DEV_15E3'
+[2025-11-13 14:00:09] HID Device detected: ProductString='GIGABYTE Device '
+[2025-11-13 14:00:09]   Pattern matches: <none>
+[2025-11-13 14:00:09]   Determined DeviceType: <none>
+[2025-11-13 14:00:09] HID Device detected: ProductString='GIGABYTE Device '
+[2025-11-13 14:00:09]   Pattern matches: <none>
+[2025-11-13 14:00:09]   Determined DeviceType: <none>
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='<none>'
+[2025-11-13 14:00:09]   Pattern matches: none=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: none=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='VXE Mouse 1K Dongle'
+[2025-11-13 14:00:09]   Pattern matches: mouse=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: mouse=Mouse
+[2025-11-13 14:00:09]   Totals => Keyboard=0 Mouse=1
+[2025-11-13 14:00:09]   Determined DeviceType: Mouse
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] HID Device detected: ProductString='Gaming Keyboard'
+[2025-11-13 14:00:09]   Pattern matches: keyboard=1
+[2025-11-13 14:00:09]   Pattern -> Type mapping: keyboard=Keyboard
+[2025-11-13 14:00:09]   Totals => Keyboard=1 Mouse=0
+[2025-11-13 14:00:09]   Determined DeviceType: Keyboard
+[2025-11-13 14:00:09] SUMMARY: HID product statistics (aggregated by ProductString):
+[2025-11-13 14:00:09]   - Product='<none>' Occurrences=1 Keyboard=1 Mouse=0 None=0 TotalPatternMatches=1
+[2025-11-13 14:00:09]       PatternTotals: none=1
+[2025-11-13 14:00:09]   - Product='GIGABYTE Device ' Occurrences=2 Keyboard=0 Mouse=0 None=2 TotalPatternMatches=0
+[2025-11-13 14:00:09]   - Product='VXE Mouse 1K Dongle' Occurrences=7 Keyboard=0 Mouse=7 None=0 TotalPatternMatches=7
+[2025-11-13 14:00:09]       PatternTotals: mouse=7
+[2025-11-13 14:00:09]   - Product='Gaming Keyboard' Occurrences=8 Keyboard=8 Mouse=0 None=0 TotalPatternMatches=8
+[2025-11-13 14:00:09]       PatternTotals: keyboard=8
+[2025-11-13 14:00:09] Get-USBControllers: Assigned HID role 'Keyboard' to controller 'PCI_VEN_1022_DEV_43F7' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-11-13 14:00:09] Get-USBControllers: Assigned HID role 'Mouse' to controller 'PCI_VEN_1022_DEV_43F7' (desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller')
+[2025-11-13 14:00:09] Get-USBControllers: Final controller map collected for GUI:
+[2025-11-13 14:00:09]   Controller='PCI_VEN_1022_DEV_15B7' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B7&SUBSYS_50071458&REV_00\\4&16012499&0&0441' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-11-13 14:00:09]   Controller='PCI_VEN_1022_DEV_43F7' Roles='Keyboard/Mouse' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_43F7&SUBSYS_11421B21&REV_01\\6&2766D23F&0&00600011' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-11-13 14:00:09]   Controller='PCI_VEN_1022_DEV_15B6' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B6&SUBSYS_50071458&REV_00\\4&16012499&0&0341' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-11-13 14:00:09]   Controller='PCI_VEN_1022_DEV_15B8' Roles='<none>' Path='HKLM:\SYSTEM\CurrentControlSet\Enum\PCI\\VEN_1022&DEV_15B8&SUBSYS_50071458&REV_00\\4&2C288D56&0&0043' Desc='@usbxhci.inf,%pci\cc_0c0330.devicedesc%;USB xHCI Compliant Host Controller'
+[2025-11-13 14:00:09] Get-PCIDevices: GPU detected: Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_220A&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0009' Port='4&d0bdf66&0' Desc='@oem2.inf,%nvidia_dev.220a%;NVIDIA GeForce RTX 3080'
+[2025-11-13 14:00:09] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_1022_DEV_15E3' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_15E3&SUBSYS_A1941458&REV_00\4&16012499&0&0641' Port='4&16012499&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio/Microphone'
+[2025-11-13 14:00:09] Get-PCIDevices: INCLUDED Audio controller -> PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio'
+[2025-11-13 14:00:09] Get-PCIDevices: Audio controller upgraded to Audio-GPU -> PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' OldDisplay='Audio (Audio Controller) - Audio' NewDisplay='Audio - GPU'
+[2025-11-13 14:00:09] Get-PCIDevices: Summary - GPUs found: 1, Audio controllers included: 2, Audio controllers ignored: 0
+[2025-11-13 14:00:09]   Included Audio: PNPID='PCI_VEN_1022_DEV_15E3' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1022&DEV_15E3&SUBSYS_A1941458&REV_00\4&16012499&0&0641' Port='4&16012499&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio/Microphone'
+[2025-11-13 14:00:09]   Included Audio: PNPID='PCI_VEN_10DE_DEV_1AEF' Path='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1AEF&SUBSYS_220A1569&REV_A1\4&d0bdf66&0&0109' Port='4&d0bdf66&0' Desc='@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller' Types='Audio'
+[2025-11-13 14:00:10] Get-NetworkAdapters: Detected network adapter -> Name='Realtek 8852CE WiFi 6E PCI-E NIC' Role='NDIS'
+[2025-11-13 14:00:10]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001
+[2025-11-13 14:00:10]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_C852&SUBSYS_56001A3B&REV_01\00E04CFFFEC8520100
+[2025-11-13 14:00:10] Get-NetworkAdapters: Detected network adapter -> Name='Realtek Gaming 2.5GbE Family Controller' Role='NDIS'
+[2025-11-13 14:00:10]   ClassPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002
+[2025-11-13 14:00:10]   ConfigPath: Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000
+[2025-11-13 14:00:10] Get-NetworkAdapters: Summary - Network adapters detected: 2.
+[2025-11-13 14:00:10]   Detected Adapter: Name='Realtek 8852CE WiFi 6E PCI-E NIC' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_C852&SUBSYS_56001A3B&REV_01\00E04CFFFEC8520100'
+[2025-11-13 14:00:10]   Detected Adapter: Name='Realtek Gaming 2.5GbE Family Controller' Role='NDIS' ClassPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002' ConfigPath='Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000'

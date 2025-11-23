@@ -1,0 +1,1 @@
+-high -gc.buffer 4096 -headlerp_inertia 1000 -graphics.branding 0 -effects.maxgibs -1 -client.headlerp 10 -player.eye_blinking false -player.eye_movement false -maxMem=32768 -cpuCount=6 -exThreads=12 -nolog -nopopupwindow -force-d3d11-no-singlethreaded
